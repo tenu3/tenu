@@ -1,1 +1,4 @@
 dbks
+// ── CHANGE TO LIVE KEYS IN PRODUCTION ──
+$razorpay_key_id = 'rzp_test_RyfPqcTdrBWIWv';
+$razorpay_key_secret = 'RXkH1E7vmdKgn7LQ6cWhLBPf';
